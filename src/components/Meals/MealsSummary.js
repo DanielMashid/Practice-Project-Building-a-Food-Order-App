@@ -1,5 +1,4 @@
-import React from 'react'
-import './MealsSummary.css'
+import'./MealsSummary.css';
 
 const MealsSummary = () => {
   return (
